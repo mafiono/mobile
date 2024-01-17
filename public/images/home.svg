@@ -1,0 +1,7 @@
+<svg data-v-3a7b5934="" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 14 16" aria-hidden="true" role="img" fill='white' icon="navigation/home" square="">
+    <g fill="none" fill-rule="evenodd" transform="translate(.5)">
+        <path fill="white" fill-rule="nonzero" d="M2.998 5.546h7.179a1 1 0 011 1v5.772a1 1 0 01-1 1h-7.18a1 1 0 01-1-1V6.546a1 1 0 011-1zm-.294-3.532h3.832a.707.707 0 010 1.413H2.704a.707.707 0 110-1.413z">
+        </path>
+        <rect width="12" height="14.438" x=".5" y=".5" stroke="white" rx="2"></rect>
+    </g>
+</svg>

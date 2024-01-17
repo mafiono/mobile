@@ -1,0 +1,50 @@
+{
+    "private": true,
+    "scripts": {
+        "dev": "npm run development",
+        "development": "mix",
+        "watch": "mix watch",
+        "watch-poll": "mix watch -- --watch-options-poll=1000",
+        "hot": "mix watch --hot",
+        "prod": "npm run production",
+        "production": "mix --production"
+    },
+    "devDependencies": {
+        "@babel/preset-react": "^7.13.13",
+        "@svgr/webpack": "^6.3.1",
+        "axios": "^0.19",
+        "bootstrap": "^4.6.0",
+        "cross-env": "^5.1",
+        "jquery": "^3.6",
+        "laravel-mix": "^6.0.6",
+        "lodash": "^4.17.13",
+        "popper.js": "^1.16.1",
+        "postcss": "^8.1.14",
+        "react": "^17.0.2",
+        "react-dom": "^17.0.2",
+        "resolve-url-loader": "^2.3.1",
+        "sass": "^1.32.11",
+        "sass-loader": "^11.0.1"
+    },
+    "dependencies": {
+        "@emotion/react": "^11.10.4",
+        "@emotion/styled": "^11.10.4",
+        "@mui/icons-material": "^5.10.6",
+        "@mui/lab": "^5.0.0-alpha.102",
+        "@mui/material": "^5.10.6",
+        "@mui/styles": "^5.10.6",
+        "@reduxjs/toolkit": "^1.8.5",
+        "@types/react": "^18.0.20",
+        "@types/react-dom": "^18.0.6",
+        "classnames": "^2.3.2",
+        "moment": "^2.29.4",
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0",
+        "react-redux": "^8.0.2",
+        "react-router-dom": "^6.4.1",
+        "swiper": "^8.4.2",
+        "ts-loader": "^9.4.1",
+        "typescript": "^4.8.3",
+        "web-vitals": "^3.0.2"
+    }
+}
