@@ -1614,20 +1614,20 @@
         },
         {
             "name": "laracasts/presenter",
-            "version": "0.2.4",
+            "version": "0.2.6",
             "source": {
                 "type": "git",
                 "url": "https://github.com/laracasts/Presenter.git",
-                "reference": "65fd3a79ef4caafa3db2fb35f2b7c6a4ffa13f6e"
+                "reference": "4353fb5a1a3b9b9073db66fd823eaaf04c0c5db0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laracasts/Presenter/zipball/65fd3a79ef4caafa3db2fb35f2b7c6a4ffa13f6e",
-                "reference": "65fd3a79ef4caafa3db2fb35f2b7c6a4ffa13f6e",
+                "url": "https://api.github.com/repos/laracasts/Presenter/zipball/4353fb5a1a3b9b9073db66fd823eaaf04c0c5db0",
+                "reference": "4353fb5a1a3b9b9073db66fd823eaaf04c0c5db0",
                 "shasum": ""
             },
             "require": {
-                "illuminate/support": "~5.0|~6.0|~7.0|~8.0",
+                "illuminate/support": "~5.0|~6.0|~7.0|~8.0|^9.0|^10.0",
                 "php": ">=5.4.0"
             },
             "require-dev": {
@@ -1658,9 +1658,9 @@
             ],
             "support": {
                 "issues": "https://github.com/laracasts/Presenter/issues",
-                "source": "https://github.com/laracasts/Presenter/tree/master"
+                "source": "https://github.com/laracasts/Presenter/tree/0.2.6"
             },
-            "time": "2020-09-07T13:30:46+00:00"
+            "time": "2023-02-21T16:06:10+00:00"
         },
         {
             "name": "laravel/framework",
@@ -9131,5 +9131,5 @@
         "php": "^7.2"
     },
     "platform-dev": [],
-    "plugin-api-version": "2.3.0"
+    "plugin-api-version": "2.6.0"
 }
