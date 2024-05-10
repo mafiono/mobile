@@ -1614,25 +1614,25 @@
         },
         {
             "name": "laracasts/presenter",
-            "version": "0.2.4",
+            "version": "0.2.7",
             "source": {
                 "type": "git",
                 "url": "https://github.com/laracasts/Presenter.git",
-                "reference": "65fd3a79ef4caafa3db2fb35f2b7c6a4ffa13f6e"
+                "reference": "fa70a699d58982e660a8f63629dabbb7b066ac7b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laracasts/Presenter/zipball/65fd3a79ef4caafa3db2fb35f2b7c6a4ffa13f6e",
-                "reference": "65fd3a79ef4caafa3db2fb35f2b7c6a4ffa13f6e",
+                "url": "https://api.github.com/repos/laracasts/Presenter/zipball/fa70a699d58982e660a8f63629dabbb7b066ac7b",
+                "reference": "fa70a699d58982e660a8f63629dabbb7b066ac7b",
                 "shasum": ""
             },
             "require": {
-                "illuminate/support": "~5.0|~6.0|~7.0|~8.0",
+                "illuminate/support": "~5.0|~6.0|~7.0|~8.0|^9.0|^10.0|^11.0",
                 "php": ">=5.4.0"
             },
             "require-dev": {
-                "mockery/mockery": "~0.9",
-                "phpspec/phpspec": "~2.0"
+                "mockery/mockery": "~0.9|^1.6",
+                "phpspec/phpspec": "~2.0|^7.5"
             },
             "type": "library",
             "autoload": {
@@ -1658,9 +1658,9 @@
             ],
             "support": {
                 "issues": "https://github.com/laracasts/Presenter/issues",
-                "source": "https://github.com/laracasts/Presenter/tree/master"
+                "source": "https://github.com/laracasts/Presenter/tree/0.2.7"
             },
-            "time": "2020-09-07T13:30:46+00:00"
+            "time": "2024-05-10T00:35:07+00:00"
         },
         {
             "name": "laravel/framework",
@@ -9131,5 +9131,5 @@
         "php": "^7.2"
     },
     "platform-dev": [],
-    "plugin-api-version": "2.3.0"
+    "plugin-api-version": "2.6.0"
 }
