@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "a2f2b3946957a884c60ef28faefd17b9",
+    "content-hash": "c8a5bf430c96ec0c4aaa6c05e06fa939",
     "packages": [
         {
             "name": "anlutro/l4-settings",
@@ -3216,16 +3216,16 @@
         },
         {
             "name": "paragonie/random_compat",
-            "version": "v1.4.3",
+            "version": "v2.0.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/paragonie/random_compat.git",
-                "reference": "9b3899e3c3ddde89016f576edb8c489708ad64cd"
+                "reference": "321a59fed499a5624b0e40cb5c824ae6116e0c18"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/paragonie/random_compat/zipball/9b3899e3c3ddde89016f576edb8c489708ad64cd",
-                "reference": "9b3899e3c3ddde89016f576edb8c489708ad64cd",
+                "url": "https://api.github.com/repos/paragonie/random_compat/zipball/321a59fed499a5624b0e40cb5c824ae6116e0c18",
+                "reference": "321a59fed499a5624b0e40cb5c824ae6116e0c18",
                 "shasum": ""
             },
             "require": {
@@ -3265,7 +3265,7 @@
                 "issues": "https://github.com/paragonie/random_compat/issues",
                 "source": "https://github.com/paragonie/random_compat"
             },
-            "time": "2018-04-04T21:48:54+00:00"
+            "time": "2016-03-18T17:17:33+00:00"
         },
         {
             "name": "phpoption/phpoption",
@@ -9131,5 +9131,5 @@
         "php": "^7.2"
     },
     "platform-dev": [],
-    "plugin-api-version": "2.3.0"
+    "plugin-api-version": "2.6.0"
 }
