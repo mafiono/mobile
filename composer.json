@@ -19,7 +19,7 @@
         "jenssegers/agent": "^2.5",
         "jeremykenedy/laravel-roles": "3.*",
         "laracasts/presenter": "^0.2.1",
-        "laravel/framework": "8.x",
+        "laravel/framework": "10.48.29",
         "laravel/legacy-factories": "^1.0",
         "laravel/tinker": "^2.0",
         "laravel/ui": "*",
