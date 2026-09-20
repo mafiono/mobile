@@ -26,7 +26,7 @@
         "laravelcollective/html": "^6.0",
         "league/fractal": "^0.16.0",
         "mobiledetect/mobiledetectlib": "^2.8",
-        "paragonie/random_compat": "~1.4",
+        "paragonie/random_compat": "~9.0",
         "pragmarx/google2fa-laravel": "^1.4",
         "predis/predis": "^1.1",
         "proengsoft/laravel-jsvalidation": "^4.0",
